@@ -1,0 +1,3 @@
+[
+ {"directory":".","command":"/usr/bin/clang -I include -std=c++0x -x c++ -c foo.cc","file":"foo.cc"}
+]
